@@ -4,7 +4,8 @@
         "name": "Bulbasaur",
         "entry": "A strange seed was planted on its back at birth. The plant sprouts and grows with this POKéMON.",
         "type": "Grass",
-        "img""weakness": [
+        "img": "./assets/images/pokemon-imgs/bulbasaur.jpeg",
+        "weakness": [
             {
                 "type": "Fire",
                 "type2": "Flying"
@@ -16,6 +17,7 @@
         "name": "Charizard",
         "entry": "Spits fire that is hot enough to melt boulders. Known to cause forest fires unintentionally.",
         "type": "Fire",
+        "img": "./assets/images/pokemon-imgs/charizard.jpeg",
         "weakness": [
             {
                 "type": "Rock",
@@ -29,6 +31,7 @@
         "name": "Wartortle",
         "entry": "Often hides in water to stalk unwary prey. For swimming fast, it moves its ears to maintain balance.",
         "type": "Water",
+        "img": "./assets/images/pokemon-imgs/wartortle.jpeg",
         "weakness": [
             {
                 "type": "Grass",
@@ -41,6 +44,7 @@
         "name": "Machamp",
         "entry": "Using its heavy muscles, it throws powerful punches that can send the victim clear over the horizon.",
         "type": "Fighting",
+        "img": "./assets/images/pokemon-imgs/machamp.jpeg",
         "weakness": [
             {
                 "type": "Flying",
@@ -53,6 +57,7 @@
         "name": "Marowak",
         "entry": "The bone it holds is its key weapon. It throws the bone skillfully like a boomerang to KO targets.",
         "type": "Ground",
+        "img": "./assets/images/pokemon-imgs/marowak.jpeg",
         "weakness": [
             {
                 "type": "Water",
@@ -65,6 +70,7 @@
         "name": "Mr. Mime",
         "entry": "If interrupted while it is miming, it will slap around the offender with its broad hands.",
         "type": "Psychic",
+        "img": "./assets/images/pokemon-imgs/mr-mime.jpeg",
         "weakness": [
             {
                 "type": "Bug"
@@ -76,6 +82,7 @@
         "name": "Poliwhirl",
         "entry": "Capable of living in or out of water. When out of water, it sweats to keep its body slimy.",
         "type": "Water",
+        "img": "./assets/images/pokemon-imgs/poliwhirl.jpeg",
         "weakness": [
             {
                 "type": "Electic",
@@ -88,6 +95,7 @@
         "name": "Gastly",
         "entry": "Almost invisible, this gaseous POKéMON cloaks the target and puts it to sleep without notice.",
         "type": "Ghost",
+        "img": "./assets/images/pokemon-imgs/gastly.jpeg",
         "weakness": [
             {
                 "type": "Ghost"
@@ -99,6 +107,7 @@
         "name": "Electrode",
         "entry": "It stores electric energy under very high pressure. It often explodes with little or no provocation.",
         "type": "Electric",
+        "img": "./assets/images/pokemon-imgs/electrode.jpeg",
         "weakness": [
             {
                 "type": "Ground"
@@ -110,6 +119,7 @@
         "name": "Nidorino",
         "entry": "An aggressive POKéMON that is quick to attack. The horn on its head secretes a powerful venom.",
         "type": "Poison",
+        "img": "./assets/images/pokemon-imgs/nidorino.jpeg",
         "weakness": [
             {
                 "type": "Ground",
@@ -122,6 +132,7 @@
         "name": "Pikachu",
         "entry": "When several of these POKéMON gather, their electricity could build and cause lightning storms.",
         "type": "Electric",
+        "img": "./assets/images/pokemon-imgs/pikachu.jpeg",
         "weakness": [
             {
                 "type": "Ground"
@@ -133,6 +144,7 @@
         "name": "Pidgeot",
         "entry": "When hunting, it skims the surface of water at high speed to pick off unwary prey such as MAGIKARP.",
         "type": "Flying",
+        "img": "./assets/images/pokemon-imgs/pidgeot.jpeg",
         "weakness": [
             {
                 "type": "Rock",
@@ -146,6 +158,7 @@
         "name": "Alakazam",
         "entry": "Its brain can outperform a supercomputer. Its intelligence quotient is said to be 5,000.",
         "type": "Psychic",
+        "img": "./assets/images/pokemon-imgs/alakazam.jpeg",
         "weakness": [
             {
                 "type": "Ghost",
@@ -158,6 +171,7 @@
         "name": "Magikarp",
         "entry": "In the distant past, it was somewhat stronger than the horribly weak descendants that exist today.",
         "type": "Water",
+        "img": "./assets/images/pokemon-imgs/magikarp.jpeg",
         "weakness": [
             {
                 "type": "Electic",
@@ -170,6 +184,7 @@
         "name": "Golem",
         "entry": "Its boulder-like body is extremely hard. It can easily withstand dynamite blasts without damage.",
         "type": "Ground",
+        "img": "./assets/images/pokemon-imgs/golem.jpeg",
         "weakness": [
             {
                 "type": "Flying",
@@ -183,6 +198,7 @@
         "name": "Chansey",
         "entry": "A rare and elusive POKéMON that is said to bring happiness to those who manage to get it.",
         "type": "Normal",
+        "img": "./assets/images/pokemon-imgs/chansey.jpeg",
         "weakness": [
             {
                 "type": "Fighting"
@@ -194,6 +210,7 @@
         "name": "Cubone",
         "entry": "Wears the skull of its deceased mother. Its cries echo inside the skull and come out as a sad melody.",
         "type": "Ground",
+        "img": "./assets/images/pokemon-imgs/cubone.jpeg",
         "weakness": [
             {
                 "type": "Water",
@@ -206,6 +223,7 @@
         "name": "Venusaur",
         "entry": "The plant blooms when it is absorbing solar energy. It stays on the move to seek sunlight.",
         "type": "Grass",
+        "img": "./assets/images/pokemon-imgs/venusaur.jpeg",
         "weakness": [
             {
                 "type": "Fire",
@@ -219,6 +237,7 @@
         "name": "Butterfree",
         "entry": "In battle, it flaps its wings at high speed to release highly toxic dust into the air.",
         "type": "Bug",
+        "img": "./assets/images/pokemon-imgs/butterfree.jpeg",
         "weakness": [
             {
                 "type": "Flying",
@@ -231,6 +250,7 @@
         "name": "Muk",
         "entry": "Thickly covered with a filthy, vile sludge. It is so toxic, even its footprints contain poison.",
         "type": "Poison",
+        "img": "./assets/images/pokemon-imgs/muk.jpeg",
         "weakness": [
             {
                 "type": "Ground",
